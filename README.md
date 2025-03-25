@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Chatbot Application designed to provide users with intelligent medical support. The chatbot assists users by answering medical queries, providing preliminary assessments based on symptoms, and facilitating communication with healthcare providers. It is built using React, Material-UI, and integrates with a backend API for processing user queries. The chatbot is powered by **Groq's Llama 3.1-8b-instant LLM**, ensuring accurate and responsive interactions.
+This is a Chatbot Application designed to provide users with intelligent medical support. The chatbot assists users by answering medical queries, providing preliminary assessments based on symptoms, and facilitating communication with healthcare providers. It is built using React, Material-UI, and integrates with a backend API for processing user queries. The chatbot is powered by **Groq's Llama3-8b-8192 LLM**, ensuring accurate and responsive interactions.
 
 ## Features
 
@@ -22,7 +22,7 @@ This is a Chatbot Application designed to provide users with intelligent medical
 
 - **Backend:** 
   - Node.js 
-  - Groq's Llama 3.1-8b-instant LLM 
+  - Groq's Llama3-8b-8192 LLM 
 
 ## Installation
 
