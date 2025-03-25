@@ -49,7 +49,7 @@ export async function POST(request) {
         },
         ...data, // Spread the user message into the messages array
       ],
-      model: 'llama-3.1-8b-instant',
+      model: 'llama3-8b-8192',
       temperature: 0.3,
       max_tokens: 1024,
       top_p: 0.95,
